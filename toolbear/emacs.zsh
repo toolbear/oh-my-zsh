@@ -1,3 +1,3 @@
-export EDITOR=/Applications/Emacs.app/Contents/MacOS/bin/emacsclient
+export EDITOR=emacsclient
 
 alias e="$EDITOR -n"
