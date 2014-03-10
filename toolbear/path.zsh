@@ -1,4 +1,5 @@
 path=(
+  ./bin
   $HOME/bin
   /usr/local/bin
   /usr/local/share/python
