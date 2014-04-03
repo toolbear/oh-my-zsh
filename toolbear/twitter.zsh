@@ -1,1 +1,0 @@
-alias tw="twitter tweet"
