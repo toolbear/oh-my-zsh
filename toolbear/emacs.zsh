@@ -1,4 +1,4 @@
-export EDITOR=emacsclient
+export EDITOR=${EDITOR:-emacs}
 
 if [[ ${EDITOR} == emacs ]] ; then
   EDITOR=emacsclient
